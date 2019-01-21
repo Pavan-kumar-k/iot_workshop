@@ -1,8 +1,6 @@
 /*
  * uart.c
  *
- *  Created on: Apr 30, 2017
- *      Author: nikagarw
  */
 
 #include "uart.h"
